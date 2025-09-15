@@ -1,0 +1,3 @@
+[submodule "GANs"]
+	path = GANs
+	url = https://github.com/sb2g/GANs.git
